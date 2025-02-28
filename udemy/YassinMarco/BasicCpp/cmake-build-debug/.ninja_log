@@ -1,0 +1,14 @@
+# ninja log v5
+10	737	7425598602686057	CMakeFiles/BasicCpp.dir/functions.cpp.obj	785a1565c82361da
+8	704	7425586933434177	CMakeFiles/BasicCpp.dir/main.cpp.obj	a9715f7be5f8a8d6
+9	850	7426192714205280	CMakeFiles/BasicCpp.dir/interaction_user.cpp.obj	be6b092603579c26
+10	960	7425608494097415	CMakeFiles/BasicCpp.dir/basic_of_numbers.cpp.obj	a4b9ca3a04f6009a
+939	1108	7435989578426119	BasicCpp.exe	be0f19e5cbd77bef
+3	945	7426200536136966	CMakeFiles/BasicCpp.dir/food_ordering_app.cpp.obj	1e985c01d8c08f83
+7	899	7425618851956491	CMakeFiles/BasicCpp.dir/practicing_1.cpp.obj	8b5d6ed88e3d88fb
+9	921	7426208171369007	CMakeFiles/BasicCpp.dir/string_data.cpp.obj	cf4d0a2e5c110ad3
+4	321	7436792621252992	build.ninja	5e798d166535984c
+6	864	7426215487466237	CMakeFiles/BasicCpp.dir/functions1.cpp.obj	3c55913c616a5b6c
+2	846	7426221067467431	CMakeFiles/BasicCpp.dir/functions2.cpp.obj	c1d23e70c5572cd5
+7	968	7426238642674529	CMakeFiles/BasicCpp.dir/if_statement.cpp.obj	41e8ddc1fea48709
+8	939	7435989576826115	CMakeFiles/BasicCpp.dir/for_loop.cpp.obj	111a4d82165e3061

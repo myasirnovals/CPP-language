@@ -1,0 +1,13 @@
+# ninja log v5
+4	882	7477214746955795	CMakeFiles/PascalTriangle.dir/main.cpp.obj	56145b42e5b9d2b9
+900	1100	7477214749035913	PascalTriangle.exe	1994360cf0296cd7
+8	752	7477214924986824	CMakeFiles/PascalTriangle.dir/main.cpp.obj	56145b42e5b9d2b9
+753	930	7477214926696836	PascalTriangle.exe	1994360cf0296cd7
+8	767	7477215088551723	CMakeFiles/PascalTriangle.dir/main.cpp.obj	56145b42e5b9d2b9
+768	971	7477215090511717	PascalTriangle.exe	1994360cf0296cd7
+7	662	7477216354237171	CMakeFiles/PascalTriangle.dir/main.cpp.obj	56145b42e5b9d2b9
+662	845	7477216355997157	PascalTriangle.exe	1994360cf0296cd7
+10	686	7477217249913168	CMakeFiles/PascalTriangle.dir/main.cpp.obj	56145b42e5b9d2b9
+687	871	7477217251643109	PascalTriangle.exe	1994360cf0296cd7
+12	758	7477217603037710	CMakeFiles/PascalTriangle.dir/main.cpp.obj	56145b42e5b9d2b9
+758	948	7477217604877720	PascalTriangle.exe	1994360cf0296cd7

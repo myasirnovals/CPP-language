@@ -1,0 +1,3 @@
+E:/Documents/materi-pembelajaran/cpp/youtube/kelasTerbuka/latihan1/CRUD/cmake-build-debug/CMakeFiles/CRUD.dir
+E:/Documents/materi-pembelajaran/cpp/youtube/kelasTerbuka/latihan1/CRUD/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/materi-pembelajaran/cpp/youtube/kelasTerbuka/latihan1/CRUD/cmake-build-debug/CMakeFiles/rebuild_cache.dir

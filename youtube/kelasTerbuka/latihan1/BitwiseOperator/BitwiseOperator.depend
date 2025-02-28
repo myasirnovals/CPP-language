@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694135998 source:d:\materi-pembelajaran\cpp\youtube\kelasterbuka\latihan1\bitwiseoperator\main.cpp
+	<iostream>
+	<bitset>
+	<string>
+
