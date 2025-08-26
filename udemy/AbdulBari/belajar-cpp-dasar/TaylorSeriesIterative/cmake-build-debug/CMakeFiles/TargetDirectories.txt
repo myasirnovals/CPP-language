@@ -1,3 +1,0 @@
-D:/Documents/materi-pembelajaran/cpp/udemy/AbdulBari/belajar-cpp-dasar/TaylorSeriesIterative/cmake-build-debug/CMakeFiles/TaylorSeriesIterative.dir
-D:/Documents/materi-pembelajaran/cpp/udemy/AbdulBari/belajar-cpp-dasar/TaylorSeriesIterative/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Documents/materi-pembelajaran/cpp/udemy/AbdulBari/belajar-cpp-dasar/TaylorSeriesIterative/cmake-build-debug/CMakeFiles/rebuild_cache.dir

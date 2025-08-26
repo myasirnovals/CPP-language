@@ -1,3 +1,0 @@
-D:/Documents/materi-pembelajaran/cpp/udemy/AbdulBari/belajar-cpp-dasar/Rerence/cmake-build-debug/CMakeFiles/Rerence.dir
-D:/Documents/materi-pembelajaran/cpp/udemy/AbdulBari/belajar-cpp-dasar/Rerence/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Documents/materi-pembelajaran/cpp/udemy/AbdulBari/belajar-cpp-dasar/Rerence/cmake-build-debug/CMakeFiles/rebuild_cache.dir

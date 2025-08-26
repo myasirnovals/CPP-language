@@ -1,7 +1,0 @@
-# ninja log v5
-4	840	7469645077438314	CMakeFiles/StaticGlobalRecursion.dir/main.cpp.obj	6bceb15378413c6
-844	1188	7469645080821288	StaticGlobalRecursion.exe	58d7f336d8644435
-20	790	7469645613327229	CMakeFiles/StaticGlobalRecursion.dir/main.cpp.obj	6bceb15378413c6
-791	982	7469645615147233	StaticGlobalRecursion.exe	58d7f336d8644435
-8	825	7469647684944817	CMakeFiles/StaticGlobalRecursion.dir/main.cpp.obj	6bceb15378413c6
-826	1017	7469647686774792	StaticGlobalRecursion.exe	58d7f336d8644435
